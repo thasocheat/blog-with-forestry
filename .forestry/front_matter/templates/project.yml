@@ -21,4 +21,5 @@ fields:
   name: by
   label: by
 pages:
+- content/en/blog/microsoft-word.md
 - content/kh/blog/microsoft-word.md
